@@ -61,8 +61,13 @@ salary-prediction-ml-api/
 {
   "experience_years": 5,
   "education_level": 3,
-  "skill_score": 85
+  "skill_score": 85,
+  "age": 30,
+  "projects_count": 12,
+  "certification_count": 2,
+  "overtime_hours": 10
 }
+
 
 Response
 {
